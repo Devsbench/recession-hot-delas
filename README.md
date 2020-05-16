@@ -1,10 +1,10 @@
 ## When should you consider this offer?
-[x] When your hiring is frozen but you still need a team to complete a project 
-[x] When you need to hire developers fast
-[x] When you are limited by time and budget
-[x] When you need to implement specific technology
-[x] When you are looking for top 1% talent in Europe, senior developers (8+ years of experience) 
-[x] When you are looking to build a flexible extension of your firm (extended delivery center)
+- [x] When your hiring is frozen but you still need a team to complete a project 
+- [x] When you need to hire developers fast
+- [x] When you are limited by time and budget
+- [x] When you need to implement specific technology
+- [x] When you are looking for top 1% talent in Europe, senior developers (8+ years of experience) 
+- [x] When you are looking to build a flexible extension of your firm (extended delivery center)
 
 
 ## What do we do?
@@ -56,5 +56,6 @@ Save up to 50% of the price. Because of a hard time in the IT industry, you can 
 ## FAQ
 Where the developers are located?
 Mostly in Poland. 
+
 
 Our Partner is Polish Gov Website for IT Companies  [Built in Poland](https://builtinpoland.com).
