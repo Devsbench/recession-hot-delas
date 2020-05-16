@@ -74,7 +74,6 @@ Developers working in CET (GMT+2) time zone (f.e. + 6h to EST and +9h to PST). T
 
 
 
-If you have any questions please contact us [projects@builtinpoland.com](projects@builtinpoland.com)
-[Twitter](ttps://twitter.com/BuiltInPoland)
-Our Partner is Polish Gov Website for IT Companies  [Built in Poland](https://builtinpoland.com).
+If you have any questions please contact us **projects@builtinpoland.com**, [Twitter](ttps://twitter.com/BuiltInPoland)
+We Partner with Polish Gov Association of IT Companies  [Built in Poland](https://builtinpoland.com).
 
