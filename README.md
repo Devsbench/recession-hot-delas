@@ -1,10 +1,10 @@
 ## When should you consider this offer?
-- [x] When your hiring is frozen but you still need a team to complete a project 
-- When you need to hire developers fast
-- When you are limited by time and budget
-- When you need to implement specific technology
-- When you are looking for top 1% talent in Europe, senior developers (8+ years of experience) 
-- When you are looking to build a flexible extension of your firm (extended delivery center)
+[x] When your hiring is frozen but you still need a team to complete a project 
+[x] When you need to hire developers fast
+[x] When you are limited by time and budget
+[x] When you need to implement specific technology
+[x] When you are looking for top 1% talent in Europe, senior developers (8+ years of experience) 
+[x] When you are looking to build a flexible extension of your firm (extended delivery center)
 
 ## What do we do?
 Due to the Covid19 outbreak, many companies all over the world have slowed down their investments in IT. A lot of projects were suspended or even cut off instantly. This caused troubles for software development agencies that lost their clients and projects. Many developers engaged in those projects landed on the benches overnight. Software agencies suffer from this situation a lot because it’s almost impossible to find a new project quickly nowadays and having people on the bench generating costs. Our idea as an association of devs shops is to promote our available resources and share them with others and make this offer unique by offering special “covid” rates. We also propose a 1-day notice period to make you comfortable to scale down the team at any time you need. Discounted rates could cover at least developers salaries and not generate losses. Due to the situation as described above you have an unique opportunity to assign them in your projects. All of them are capable of working remotely.
@@ -20,10 +20,10 @@ Mostly we offer Senior Engineers (8+ years of experience). A Senior Engineer wil
 
 ## Why should you care as CTO / VP of Engineering?
 If you are recruiting right now or looking for some staff augmentation this is an ideal timing for you because:
-1. All of developers are available right now (even from tomorrow). Software agencies want to minimize their lost so they are willing to give you people asap 
-2. 1-day notice period. You can terminate the agreement even in one day if you are not satisfied. This is a huge flexibility for you. You can easily scale up and scale down the team.
-3. You can have vetted, VERY GOOD software engineers. We are not Upwork where there are freelancers who disappear on the next day, and most seniors are not real seniors while asking for a $70/h rate. This is ridiculous. We provide you only devs who are on the payroll. All of them made us a lot of money working for clients’ projects for many years.
-4. Most of the software agencies that provide their developers have great reviews on Clutch.io - you can always check it before engagment.
+- All of developers are available right now (even from tomorrow). Software agencies want to minimize their lost so they are willing to give you people asap 
+- 1-day notice period. You can terminate the agreement even in one day if you are not satisfied. This is a huge flexibility for you. You can easily scale up and scale down the team.
+- You can have vetted, VERY GOOD software engineers. We are not Upwork where there are freelancers who disappear on the next day, and most seniors are not real seniors while asking for a $70/h rate. This is ridiculous. We provide you only devs who are on the payroll. All of them made us a lot of money working for clients’ projects for many years.
+- Most of the software agencies that provide their developers have great reviews on Clutch.io - you can always check it before engagment.
 
 ## How does it work?
 I would like to mention that we are not a staffing agency. All of the engineers are 100% under company payroll and not subcontracted/freelancers so you will not receive any recruiting/administrative fees of that sort. All of the developers are used to working remotely for clients. 
@@ -34,17 +34,17 @@ Quality of the people - vetted by many years working in software development age
 Save up to 50% of the price. Because of a hard time in the IT industry, you can have them for half price. 
 
 ## How can you check for available developers?
-1. Send your request to [projects@builtinpoland.com](projects@builtinpoland.com) 
-2. In email please let us know: Who do you need, front end, back end, full stack, native mobile application, UI expert, DevOps, tester, you name it, describe all required tech stack in priorities (must have, nice to have).
-3. You will receive confirmation of your request in 1 working day.
-4. Based upon your request we will check all available developers in a close partner network of more than hundred software agencies and get back to you with profiles that match your needs. It should take 3-5 business days max.
-5. If satisfied we are scheduling tech talks with selected candidates.
-6. If you see fit and would like to start we are signing a standard set of documents like (NDA, Master Service Agreement and Statement of Work). All have all templates but we are open to work on your drafts.
-7. All of our developers work remotely (COVID time) but are willing to be onsite from time to time when the situation gets back to “normal”.
-8. To simplify things, we are ([Built In Poland](https://BuiltInPoland.com)) a party of the Master Service Agreement which means you are signing only one agreement with us, even having a team composed of devs from different software agencies.
-9. To each assignment we are adding a lightweight Project Coordinator to process all paperwork smoothly and make cooperation successful.
+> 1. Send your request to [projects@builtinpoland.com](projects@builtinpoland.com) 
+> 2. In email please let us know: Who do you need, front end, back end, full stack, native mobile application, UI expert, DevOps, tester, you name it, describe all required tech stack in priorities (must have, nice to have).
+> 3. You will receive confirmation of your request in 1 working day.
+> 4. Based upon your request we will check all available developers in a close partner network of more than hundred software agencies and get back to you with profiles that match your needs. It should take 3-5 business days max.
+> 5. If satisfied we are scheduling tech talks with selected candidates.
+> 6. If you see fit and would like to start we are signing a standard set of documents like (NDA, Master Service Agreement and Statement of Work). All have all templates but we are open to work on your drafts.
+> 7. All of our developers work remotely (COVID time) but are willing to be onsite from time to time when the situation gets back to “normal”.
+> 8. To simplify things, we are ([Built In Poland](https://BuiltInPoland.com)) a party of the Master Service Agreement which means you are signing only one agreement with us, even having a team composed of devs from different software agencies.
+> 9. To each assignment we are adding a lightweight Project Coordinator to process all paperwork smoothly and make cooperation successful.
 
-##FAQ
+## FAQ
 Where the developers are located?
 Mostly in Poland. 
 
