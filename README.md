@@ -1,5 +1,5 @@
 ## When should you consider this offer?
-- When your hiring is frozen but you still need a team to complete a project 
+[x] When your hiring is frozen but you still need a team to complete a project 
 - When you need to hire developers fast
 - When you are limited by time and budget
 - When you need to implement specific technology
@@ -34,17 +34,18 @@ Quality of the people - vetted by many years working in software development age
 Save up to 50% of the price. Because of a hard time in the IT industry, you can have them for half price. 
 
 ## How can you check for available developers?
-1. Send your request to projects@builtinpoland.com 
+1. Send your request to [projects@builtinpoland.com](projects@builtinpoland.com) 
 2. In email please let us know: Who do you need, front end, back end, full stack, native mobile application, UI expert, DevOps, tester, you name it, describe all required tech stack in priorities (must have, nice to have).
 3. You will receive confirmation of your request in 1 working day.
 4. Based upon your request we will check all available developers in a close partner network of more than hundred software agencies and get back to you with profiles that match your needs. It should take 3-5 business days max.
 5. If satisfied we are scheduling tech talks with selected candidates.
 6. If you see fit and would like to start we are signing a standard set of documents like (NDA, Master Service Agreement and Statement of Work). All have all templates but we are open to work on your drafts.
 7. All of our developers work remotely (COVID time) but are willing to be onsite from time to time when the situation gets back to “normal”.
-8. To simplify things, we are (www.BuiltInPoland.com) a party of the Master Service Agreement which means you are signing only one agreement with us, even having a team composed of devs from different software agencies.
+8. To simplify things, we are ([Built In Poland](https://BuiltInPoland.com)) a party of the Master Service Agreement which means you are signing only one agreement with us, even having a team composed of devs from different software agencies.
 9. To each assignment we are adding a lightweight Project Coordinator to process all paperwork smoothly and make cooperation successful.
 
-
-
+##FAQ
+Where the developers are located?
+Mostly in Poland. 
 
 Our Partner is Polish Gov Website for IT Companies  [Built in Poland](https://builtinpoland.com).
