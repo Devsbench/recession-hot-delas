@@ -1,5 +1,5 @@
-# covid
-Available Developers on the bench
+
+Available Developers On The Bench
 ## When should you consider this offer?
 - When your hiring is frozen but you still need a team to complete a project 
 - When you need to hire developers fast
