@@ -44,7 +44,7 @@ Save up to 50% of the price. Because of a hard time in the IT industry, you can 
 7. All of our developers work remotely (COVID time) but are willing to be onsite from time to time when the situation gets back to “normal”.
 8. To simplify things, we are ([Built In Poland](https://BuiltInPoland.com)) a party of the Master Service Agreement which means you are signing only one agreement with us, even having a team composed of devs from different software agencies.
 9. To each assignment we are adding a lightweight Project Coordinator to process all paperwork smoothly and make cooperation successful.
---
+
 # FAQ
 ### Where the developers are located?
 Mostly in Poland. Below you can check ranking of developers.
