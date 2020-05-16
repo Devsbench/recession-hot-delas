@@ -54,8 +54,32 @@ Save up to 50% of the price. Because of a hard time in the IT industry, you can 
 9. To each assignment we are adding a lightweight Project Coordinator to process all paperwork smoothly and make cooperation successful.
 ```
 ## FAQ
-Where the developers are located?
-Mostly in Poland. 
+### Where the developers are located?
+Mostly in Poland. Below you can check ranking of developers.
+![](Developers%20Ranking.png)
+
+### How fast can you ramp-up a team?
+Usually in up to 7 days you can have ready to onboarding team.
+
+### Are there any additional costs of your services?
+No. No hidden charges. We do not charge any commission. You are only paying hourly rates for developers (times & material model)
+
+### How is this different from services like f.e. Upwork, Toptal?
+Firstly, all of our developers are our full time employees, they are not freelancers. We recruited them, vetted them in many projects and kept them because they are really good.  All of them are real seniors (please notice that most of the people named themself as “seniors” on upwork are not real seniors). We guarantee the quality of our developers. We also provide business continuity which is very important for long-term projects. In case the developer cannot continue his work a suitable replacement with skills and experience similar to the member who is not continuing will be offered (swaps are free of charge). Also we can do replacement on your request. With new developers we provide at least 1 week overlap to properly transfer the knowledge. 
+
+### In which timezone do you have developers?
+Developers working in CET (GMT+2) time zone (f.e. + 6h to EST and +9h to PST). The overlap with americas is usually around 2-4 hours.
+
+### What services do you usually offer?
+- Extended Teams - Staff Augmentation. Our Extended Team model provides the speed, professional acumen and flexibility your team needs to scale quickly and deliver your products on time and always with the best quality.
+
+- Delivery Team - An expert autonomous team capable of rapidly and efficiently delivering end-to-end technology solutions and value. Free up internal resources and focus on key growth drivers.
+
+- Software Developmnet Outsourcing - Scoped Project Outsourcing - From smart customization of pre-developed platforms to full-cycle custom software development, BairesDev is an experienced partner to deliver reliable custom software solutions.
 
 
+
+If you have any questions please contact us [projects@builtinpoland.com](projects@builtinpoland.com)
+[Twitter](ttps://twitter.com/BuiltInPoland)
 Our Partner is Polish Gov Website for IT Companies  [Built in Poland](https://builtinpoland.com).
+
