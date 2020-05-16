@@ -70,7 +70,7 @@ Developers working in CET (GMT+2) time zone (f.e. + 6h to EST and +9h to PST). T
 - Software Developmnet Outsourcing - Scoped Project Outsourcing - From smart customization of pre-developed platforms to full-cycle custom software development, BairesDev is an experienced partner to deliver reliable custom software solutions.
 
 
+## Contact
+If you have any questions please contact us **projects@builtinpoland.com**
 
-If you have any questions please contact us **projects@builtinpoland.com**, [Twitter](ttps://twitter.com/BuiltInPoland)
 We Partner with Polish Gov Association of IT Companies  [Built in Poland](https://builtinpoland.com).
-
