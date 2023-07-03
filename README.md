@@ -1,3 +1,8 @@
+# Offer of the day
+July 3, 2023, -> https://www.notion.so/polystat/Database-Engineer-a2c17be048324630ac7c2789a98be024?pvs=4
+
+
+
 # When should you consider this offer?
 - When your hiring is frozen but you still need a team to complete a project 
 - When you need to hire developers fast
