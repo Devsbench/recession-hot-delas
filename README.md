@@ -31,7 +31,7 @@ If you are recruiting right now or looking for some staff augmentation, this is 
 - Most software agencies that provide their developers have great reviews on Clutch.io - you can always check it before engagement.
 
 # How does it work?
-I want to mention that we are not a recruitment agency. All the engineers are 100% under company payroll and not subcontracted/freelancers, so you will not receive any recruiting/administrative fees. All of the developers are used to working remotely for clients. You will pay only an hourly rate per developer. We have a simple Master Agreement and SOW that defines who and at what rate working for and you for how long. As easy as possible.
+We are not a recruitment agency. All the engineers are 100% under the company's payroll, not subcontractors or freelancers, so you will not receive any recruiting/administrative fees. All of the developers are used to working remotely for clients. You will pay only an hourly rate per developer. We have a simple Master Agreement and SOW that defines who and at what rate working for you for and for how long. As easy as possible.
 
 # Why is this offer better than any other? 
 Two things are super unique in this offer: 
@@ -40,42 +40,47 @@ Save up to 50% of the price. Because of a hard time in the tech industry, you ca
 
 
 # How can you check for available developers and start cooperation?
+You have two options:
+First, Check the "Hot-Deals" offers here. We publish every day with newly available devs. 
+
+or second option is to send us a request with your specific needs:
+
 1. Send your request to **projects@builtinpoland.com**
-2. In email, please let us know: Who do you need, front end, back end, full stack, native mobile application, UI expert, DevOps, tester, you name it, describe all required tech stack in priorities (must have, nice to have).
+2. In email, please let us know: Who do you need, front end, back end, full stack, mobile, UI expert, DevOps, tester, you name it, describe all required tech stack in priorities (must have, nice to have).
 3. You will receive confirmation of your request in 1 working day.
-4. Based upon your request we will check all available developers in a close partner network of more than hundred software agencies and get back to you with profiles that match your needs. It should take 3-5 business days max.
-5. If satisfied we are scheduling tech talks with selected candidates.
-6. If you see fit and would like to start we are signing a standard set of documents like (NDA, Master Service Agreement and Statement of Work). All have all templates but we are open to work on your drafts.
-7. All of our developers work remotely (COVID time) but are willing to be onsite from time to time when the situation gets back to “normal”.
-8. To simplify things, we are ([Built In Poland](https://BuiltInPoland.com)) a party of the Master Service Agreement which means you are signing only one agreement with us, even having a team composed of devs from different software agencies.
-9. To each assignment we are adding a lightweight Project Coordinator to process all paperwork smoothly and make cooperation successful.
+4. Based upon your request, we will check all available developers in a close partner network of more than a hundred software agencies and get back to you with profiles that match your needs. It should take 3 business days max.
+5. If satisfied, we are scheduling tech talks with selected candidates.
+6. If you see fit and would like to start, we are signing a standard set of documents like (NDA, Master Service Agreement and Statement of Work). All have all templates, but we are open to working on your drafts.
+7. All of our developers work remotely; however willing to be onsite from time to time.
+8. To simplify things, we are ([Built In Poland](https://BuiltInPoland.com)) a party of the Master Service Agreement, which means you are signing only one agreement with us, even having a team composed of devs from different software agencies.
+9. Our Project Coordinator will conduct all the paperwork and answer all the questions. 
 
 # FAQ
-### Where the developers are located?
-Mostly in Poland. Below you can check ranking of developers.
+### Where are the developers located?
+Mostly in Poland. Below you can check the ranking of developers, if you'd like.
 ![](Developers%20Ranking.png)
 
-### How fast can you ramp-up a team?
-Usually in up to 7 days you can have ready to onboarding team.
+### How fast can you ramp up a team?
+Usually, in up to 7 days you can have ready to onboarding team.
 
-### Are there any additional costs of your services?
+### Are there any additional costs for your services?
 No. No hidden charges. We do not charge any commission. You are only paying hourly rates for developers (times & material model)
 
-### How is this different from services like f.e. Upwork, Toptal?
-Firstly, all of our developers are our full time employees, they are not freelancers. We recruited them, vetted them in many projects and kept them because they are really good.  All of them are real seniors (please notice that most of the people named themself as “seniors” on upwork are not real seniors). We guarantee the quality of our developers. We also provide business continuity which is very important for long-term projects. In case the developer cannot continue his work a suitable replacement with skills and experience similar to the member who is not continuing will be offered (swaps are free of charge). Also we can do replacement on your request. With new developers we provide at least 1 week overlap to properly transfer the knowledge. 
+### How is this different from services like f.e. Upwork, and Toptal?
+Firstly, all of our developers are our full-time employees; they are not freelancers. We recruited them, vetted them in many projects, and kept them because they were excellent.  All of them are real seniors (please notice that most people who named themselves “seniors” on Upwork are not real seniors). We guarantee the quality of our developers. We also provide business continuity which is very important for long-term projects; replacements are free. Also, we can do the replacement on your request (without explaining why - it's your decision, you don't feel fit - we make a replacement). We provide at least 1-2 weeks overlap with new developers to properly transfer the knowledge. 
 
 ### In which timezone do you have developers?
-Developers working in CET (GMT+2) time zone (f.e. + 6h to EST and +9h to PST). The overlap with americas is usually around 2-4 hours.
+Developers working in CET (GMT+2) time zone (f.e. + 6h to EST and +9h to PST). The overlap with Americas is usually around 2-4 hours.
 
 ### What services do you usually offer?
-- Extended Teams - Staff Augmentation. Our Extended Team model provides the speed, professional acumen and flexibility your team needs to scale quickly and deliver your products on time and always with the best quality.
+- Team Extension - Staff Augmentation. Our Extended Team model provides the speed, professional acumen, and flexibility your team needs to scale quickly and deliver your products on time and always with the best quality.
 
-- Delivery Team - An expert autonomous team capable of rapidly and efficiently delivering end-to-end technology solutions and value. Free up internal resources and focus on key growth drivers.
+- Delivery Team - An autonomous expert team capable of rapidly and efficiently delivering end-to-end technology solutions and value. Free up internal resources and focus on key growth drivers.
 
-- Software Developmnet Outsourcing - Scoped Project Outsourcing - From smart customization of pre-developed platforms to full-cycle custom software development, BairesDev is an experienced partner to deliver reliable custom software solutions.
+- Software Development Outsourcing - Scoped Project Outsourcing - From innovative customization of pre-developed platforms to full-cycle custom software development, we can find you an agency experienced in every domain with relevant portfolio.
 
 
 ## Contact
-If you have any questions please contact us **projects@builtinpoland.com**
+If you have any questions please get in touch with us **projects@builtinpoland.com**
 
-We Partner with Polish Gov Association of IT Companies  [Built in Poland](https://builtinpoland.com).
+We Partner with the Polish Gov Association of IT Companies  [Built in Poland](https://builtinpoland.com).
