@@ -5,14 +5,14 @@ July 3, 2023, -> https://www.notion.so/polystat/Database-Engineer-a2c17be0483246
 
 # When should you consider this offer?
 - When your hiring is frozen but you still need a team to complete a project 
-- When you need to hire developers fast
-- When you are limited by time and budget
+- When you need to hire top developers fast (yes top - they are already vetted)
+- When you are limited by time and budget 
 - When you need to implement specific technology
 - When you are looking for top 1% talent in Europe, senior developers (8+ years of experience) 
-- When you are looking to build a flexible extension of your firm (extended delivery center)  
+- When you are looking to build a flexible extension of your firm (extended delivery center, team extension, team augmentation)  
 
 # What do we do?
-Due to the Covid19 outbreak, many companies all over the world have slowed down their investments in IT. A lot of projects were suspended or even cut off instantly. This caused troubles for software development agencies that lost their clients and projects. Many developers engaged in those projects landed on the benches overnight. Software agencies suffer from this situation a lot because it’s almost impossible to find a new project quickly nowadays and having people on the bench generating costs. Our idea as an association of devs shops is to promote our available resources and share them with others and make this offer unique by offering special “covid” rates. We also propose a 1-day notice period to make you comfortable to scale down the team at any time you need. Discounted rates could cover at least developers salaries and not generate losses. Due to the situation as described above you have an unique opportunity to assign them in your projects. All of them are capable of working remotely.  
+Due to the economic turndown, many companies worldwide have slowed down their investments in IT. A lot of projects were suspended or even cut off instantly. This caused trouble for software development agencies that lost their clients and projects. Many developers engaged in those projects landed on the benches overnight. Software agencies suffer greatly from this situation because it’s almost impossible to find a new project quickly nowadays, and having people on the bench generates costs (mostly the cost of salaries). They have two options: fire people on the bench or find them a project that covers at least their salary and some operational company costs. Our idea as an association of devs shops is to promote our available resources, share them with others, and make this offer unique by offering special “recession” rates. We also propose a 1-day notice period to make you comfortable scaling down the team any time you need. Discounted rates could cover at least developers' salaries and not generate losses. Due to the abovementioned situation, you have a unique opportunity to assign them to your projects. All of them are capable of working remotely. It is an excellent opportunity for you to have ready to go team in a couple of days.
   
 # Why is this offer so unique?
 This offer is so unique because you can save up to 60% of your costs and not compromise on developers quality. All of these software agencies are having a tough time and the main goal for them is to survive. You can help them by hiring their staff for your projects (short-term or long term). All of the proposed devs are available right now! Adding to that 1-day notice period makes this offer very special. 
