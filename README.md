@@ -1,4 +1,4 @@
-# Link to the offer 
+# Link to the Hot Deals Offer
 https://www.notion.so/polystat/60d345a5c7f448ed9fa757ba478c27ea?v=905f139313d94b5b86495bc73a6d630c&pvs=4
 
 
