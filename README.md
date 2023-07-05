@@ -1,6 +1,5 @@
-# Offer of the day
-July 3, 2023, -> https://www.notion.so/polystat/Database-Engineer-a2c17be048324630ac7c2789a98be024?pvs=4
-
+# Link to the offer 
+https://www.notion.so/polystat/60d345a5c7f448ed9fa757ba478c27ea?v=905f139313d94b5b86495bc73a6d630c&pvs=4
 
 
 # When should you consider this offer?
@@ -79,6 +78,8 @@ Developers working in CET (GMT+2) time zone (f.e. + 6h to EST and +9h to PST). T
 
 - Software Development Outsourcing - Scoped Project Outsourcing - From innovative customization of pre-developed platforms to full-cycle custom software development, we can find you an agency experienced in every domain with relevant portfolio.
 
+# Link to the offer 
+https://www.notion.so/polystat/60d345a5c7f448ed9fa757ba478c27ea?v=905f139313d94b5b86495bc73a6d630c&pvs=4
 
 ## Contact
 If you have any questions please get in touch with us **projects@builtinpoland.com**
